@@ -1,6 +1,6 @@
 function Header() {
     return (
-    <div>
+    <div className="header">
         <h1>林 兴</h1>
         <p>Android开发工程师</p>
         <div>

@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  background-color: #282c34;
+  color: white;
+}
+
+.main{
+  width: 100%;
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.footer{
+  background-color: #282c34;
+  color: white;
+  height: auto;
+}

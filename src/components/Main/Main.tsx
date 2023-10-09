@@ -1,13 +1,15 @@
 import "./Main.css"
 
 import Skills from "../Skills";
+import Work from "../WorkExperience";
+import Education from "../Education";
 
 function Main(){
     return (
         <div className="main-container">
             <Skills/>
-            <div>Work Experience</div>
-            <div>Education</div>
+            <Work/>
+            <Education/>
         </div>
     )
 }

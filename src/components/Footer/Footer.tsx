@@ -3,8 +3,7 @@ import "./Footer.css"
 function Footer () {
     return (
     <div className="footer-container">
-        <div>Skills</div>
-        <div>Projects</div>
+        <div>如有需求，敬请联系！</div>
     </div>)
 }
 

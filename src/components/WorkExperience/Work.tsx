@@ -2,14 +2,28 @@ import "./Work.css"
 
 function Work() {
     return(
-        <div>
+        <div className="work-container">
             <h1>工作经历</h1>
-            <div>Social Club</div>
+            <br/>
+            <div className="company-title">
+                <div>Social Club</div>
+                <div>Android开发工程师</div>
+            </div>
+        
+            <br/>
 
-            <div>Penta</div>
+            <div className="company-title">
+                <div>Penta</div>
+                <div>iOS开发工程师</div>
+            </div>
+        
+            <br/>
 
-            <div>深圳乐逗游戏有限公司</div>
-
+            <div className="company-title">
+                <div>深圳乐逗游戏有限公司</div>
+                <div>Android开发工程师</div>
+            </div>
+            
         </div>
     );
 }

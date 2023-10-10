@@ -1,3 +1,5 @@
 .main-container{
     background-color: chartreuse;
+    text-align: start;
+    padding: 10px;
 }

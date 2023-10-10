@@ -23,6 +23,20 @@ function Work() {
                 <div>深圳乐逗游戏有限公司</div>
                 <div>Android开发工程师</div>
             </div>
+
+            <br/>
+
+            <div className="company-title">
+                <div>Battle APP LLC.</div>
+                <div>Android开发工程师</div>
+            </div>
+
+            <br/>
+
+            <div className="company-title">
+                <div>北京十月逸栈科技有限公司</div>
+                <div>Android开发工程师</div>
+            </div>
             
         </div>
     );

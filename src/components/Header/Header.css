@@ -22,8 +22,9 @@
 }
 
 .contact-info{
-  margin-left: 6px;
-  margin-right: 6px;
+  margin: 6px;
+  /* margin-left: 6px;
+  margin-right: 6px; */
 }
 
 .contact-info a{

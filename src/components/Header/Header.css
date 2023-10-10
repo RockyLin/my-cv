@@ -1,5 +1,36 @@
+.name{
+  margin-top: 10px;
+}
+
 .header-container{
     background-color: #282c34;
     color: white;
-  }
+    padding: 10px;
+}
   
+.job-position{
+  font-size: 1.5rem;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.contact-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-info{
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+.contact-info a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.contact-container :nth-child(4){
+  display: none;
+}

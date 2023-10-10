@@ -1,0 +1,8 @@
+.education-container{
+    margin-top: 40px;
+}
+
+.university-major{
+    display: flex;
+    justify-content: space-between;
+}

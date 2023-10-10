@@ -2,9 +2,14 @@ import "./Education.css"
 
 function Education(){
     return(
-        <div>
+        <div className="education-container">
             <h1>学历</h1>
-            <p>中南大学 统招本科 电子信息科学与技术</p>
+            <br/>
+            <div className="university-major">
+                <p>中南大学</p>
+                <p>统招本科</p>
+                <p>电子信息科学与技术</p>
+            </div>
         </div>
     );
 }
